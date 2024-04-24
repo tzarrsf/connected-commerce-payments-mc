@@ -13,10 +13,10 @@ The data and code samples in this repository are organized in a traditional "dev
 ### Course candidates
 The target audience / persona is __developers__. No sales material will be covered except maybe to get you excited about the possibilities of incorporating additional clouds in your customers' projects. This course is currently offered by invitation only. Preference is given to those who hold relevant qualifications. In addition to the Salesforce Administrator, Platform App Builder and Developer I/II and JavaScript certifications, these are the candidate tiers listed in descending order of likelihood to secure a seat.
 
-1. Ideal Candidate: Holds all four Accredited Professional credentials: B2B Administrator, B2B Developer, Order Management Administrator, Order Management Developer
-1. Tier 2 Candidate: Holds a credential on each product track (B2B vs Order Management) __or__ holds the full track on one products. Examples: B2B Admin + Dev / B2B Admin + SOM Admin / SOM Admin + SOM Dev
-1. Tier 3 Candidate: Holds one credential on the B2B or Order Management product
-1. Tier 4 Candidate: Does not hold any Accredited Professional credentials but has experience implementing with the product
+* **Ideal Candidate**: Holds all four Accredited Professional credentials: B2B Administrator, B2B Developer, Order Management Administrator, Order Management Developer
+* **Tier 2 Candidate**: Holds a credential on each product track (B2B vs Order Management) __or__ holds the full track on one products. Examples: B2B Admin + Dev / B2B Admin + SOM Admin / SOM Admin + SOM Dev
+* **Tier 3 Candidate**: Holds one credential on the B2B or Order Management product
+* **Tier 4 Candidate**: Does not hold any Accredited Professional credentials but has experience implementing with the product
 
 ## ⚠️ Disclaimers
 
