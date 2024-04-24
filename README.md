@@ -2,13 +2,21 @@
 
 ### Preamble
 
-The data and code samples in this repository are organized in a traditional "developer package" deployable from an IDE such as Visual Studio Code; That is very much 'by design.' SFDX packages while unwieldly for Administrators who just want to stand up an environment, place orders and test out basic features can greatly accelerate self-enablement and productivity for those familiar with this setup. If you believe you've reached this repository in error, please consult these resources first as they're considered a prerequisite before attempting thi implementation camp.
+The data and code samples in this repository are organized in a traditional "developer package" deployable from an IDE such as Visual Studio Code; That is very much 'by design.' SFDX packages while unwieldly for Administrators who just want to stand up an environment, place orders and test out basic features can greatly accelerate self-enablement and productivity for those familiar with this setup. If you believe you've reached this repository in error, please consult these resources first as they're considered a prerequisite before attempting this implementation camp.
 
 #### Prerequisites
 * [Get to Know B2B Commerce for Administrators](https://sfdc.co/B2BAdminGetToKnowCurriculum)
 * [Get to Know B2B Commerce for Administrators repository](https://github.com/tzarrsf/b2b-commerce-gtk-admin/)
 * [Get to Know B2B Commerce for Developers](https://sfdc.co/B2BDevGetToKnowCurriculum)
 * [Get to Know B2B Commerce for Developers repository](https://github.com/tzarrsf/b2b-commerce-gtk-dev/)
+
+### Course candidates
+The target audience / persona is __developers__. No sales material will be covered except maybe to get you excited about the possibilities of incorporating additional clouds in your customers' projects. This course is currently offered by invitation only. Preference is given to those who hold relevant qualifications. In addition to the Salesforce Administrator, Platform App Builder and Developer I/II and JavaScript certifications, these are the candidate tiers listed in descending order of likelihood to secure a seat.
+
+# Ideal Candidate: Holds all four Accredited Professional credentials: B2B Administrator, B2B Developer, Order Management Administrator, Order Management Developer
+# Tier 2 Candidate: Holds a credential on each product track (B2B vs Order Management) __or__ holds the full track on one products. Examples: B2B Admin + Dev / B2B Admin + SOM Admin / SOM Admin + SOM Dev
+# Tier 3 Candidate: Holds one credential on the B2B or Order Management product
+# Tier 4 Candidate: Does not hold any Accredited Professional credentials but has experience implementing with the product
 
 ## ⚠️ Disclaimers
 
