@@ -1,12 +1,14 @@
-# Implementation Camp: Connected Commerce with Payments and Marketing Cloud (aka connected-commerce-payments-mktgcloud)
+# Implementation Camp: Connected Commerce with Payments and Marketing Cloud (aka connected-commerce-payments-mc)
 
 ### Preamble
 
-The data and code samples in this repository are organized in a traditional "developer package" deployable from an IDE such as Visual Studio Code; That is very much 'by design.' SFDX packages while unwieldly for Administrators who just want to stand up an environment, place orders and test out basic features can greatly accelerate self-enablement and productivity for those familiar with this setup. If you believe you've reached this repository in error, please consult these resources first:
+The data and code samples in this repository are organized in a traditional "developer package" deployable from an IDE such as Visual Studio Code; That is very much 'by design.' SFDX packages while unwieldly for Administrators who just want to stand up an environment, place orders and test out basic features can greatly accelerate self-enablement and productivity for those familiar with this setup. If you believe you've reached this repository in error, please consult these resources first as they're considered a prerequisite before attempting thi implementation camp.
 
-* [Connected Commerce Payments Prework](https://sfdc.co/ConnectedCommercePaymentsPrework)
+#### Prerequisites
 * [Get to Know B2B Commerce for Administrators](https://sfdc.co/B2BAdminGetToKnowCurriculum)
 * [Get to Know B2B Commerce for Administrators repository](https://github.com/tzarrsf/b2b-commerce-gtk-admin/)
+* [Get to Know B2B Commerce for Developers](https://sfdc.co/B2BDevGetToKnowCurriculum)
+* [Get to Know B2B Commerce for Developers repository](https://github.com/tzarrsf/b2b-commerce-gtk-dev/)
 
 ## ⚠️ Disclaimers
 
@@ -32,7 +34,13 @@ The documentation for the majority of the data and code in this collection can b
 
 ### Organization
 
-This repository contains a code folder and a data folder at the root level meant to support Developers pursuing self-enablement, skill-building and ultimately pursuit of Accredited Professional credentials.
+This repository contains a code folder and a data folder at the root level meant to support Developers during the implementation camp (live or virtual course). The contents are aligned with the following resources which you'll reference throughout the three days.
+
+* [Connected Commerce Payments Prework](https://sfdc.co/ConnectedCommercePaymentsPrework) [WIP - access may not be public yet as of 4/24/24]
+* [Connected Commerce Payments Day 1 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay1) [WIP - access may not be public yet as of 4/24/24]
+* [Connected Commerce Payments Day 2 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay2) [WIP - access may not be public yet as of 4/24/24]
+* [Connected Commerce Payments Day 3 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay3) [WIP - access may not be public yet as of 4/24/24]
+* [Connected Commerce Take Home Lab](https://sfdc.co/ConnectedCommercePaymentsTakeHomeLab) [WIP - access may not be public yet as of 4/24/24]
 
 ### Applicability
 
