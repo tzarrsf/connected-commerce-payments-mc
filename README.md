@@ -42,19 +42,19 @@ The documentation for the majority of the data and code in this collection can b
 
 ### Organization
 
-This repository contains a code folder and a data folder at the root level meant to support Developers during the implementation camp (live or virtual course). The contents are aligned with the following resources which you'll reference throughout the three days.
+This repository contains a code folder and a data folder at the root level meant to support attendees (developers) during the implementation camp (virtual or live course). The contents are aligned with the following resources which you'll reference throughout the three days.
 
-* [Connected Commerce Payments Prework](https://sfdc.co/ConnectedCommercePaymentsPrework) [WIP - access may not be public yet as of 4/24/24]
-* [Connected Commerce Payments Day 1 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay1) [WIP - access may not be public yet as of 4/24/24]
-* [Connected Commerce Payments Day 2 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay2) [WIP - access may not be public yet as of 4/24/24]
-* [Connected Commerce Payments Day 3 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay3) [WIP - access may not be public yet as of 4/24/24]
-* [Connected Commerce Take Home Lab](https://sfdc.co/ConnectedCommercePaymentsTakeHomeLab) [WIP - access may not be public yet as of 4/24/24]
+Work in Progress (may not be available as of 04/24/24)
+1. [Connected Commerce Payments Prework](https://sfdc.co/ConnectedCommercePaymentsPrework) 
+1. [Connected Commerce Payments Day 1 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay1)
+1. [Connected Commerce Payments Day 2 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay2)
+1. [Connected Commerce Payments Day 3 Exercises](https://sfdc.co/ConnectedCommercePaymentsExercisesDay3)
+1. [Connected Commerce Take Home Lab](https://sfdc.co/ConnectedCommercePaymentsTakeHomeLab)
 
 ### Applicability
 
-This code is meant to support the "Get to Know B2B Commerce for Developers" Partner Learning Camp curriculum in the Partner Learning Camp. Examples here may be oversimplified to support a speedy setup. It's up to you as a Solution Implementing Partner and Developer or Architect to explore the rest of the capabilities that that the checkout integration, data models and platform can handle.
+This code is meant to support the "Connected Commerce with Payments and Marketing Cloud" Implementation Camp. Examples here may be oversimplified to support a speedy setup. It's up to you as a Solution Implementing Partner and Developer or Architect to explore the rest of the capabilities that that the products can handle.
 
 ### Change Frequency
 
-This code may be updated with each seasonal release. The original check-in was tied to Spring '24.
-
+This code may be updated with each seasonal release. The original check-ins were tied to the Spring '24 and Summer '24 GA releases.
