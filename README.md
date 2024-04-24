@@ -16,7 +16,7 @@ The target audience / persona is __developers__. No sales material will be cover
 * **Ideal Candidate**: Holds all four Accredited Professional credentials: B2B Administrator, B2B Developer, Order Management Administrator, Order Management Developer
 * **Tier 2 Candidate**: Holds a credential on each product track (B2B vs Order Management) __or__ holds the full track on one products. Examples: B2B Admin + Dev / B2B Admin + SOM Admin / SOM Admin + SOM Dev
 * **Tier 3 Candidate**: Holds one credential on the B2B or Order Management product
-* **Tier 4 Candidate**: Does not hold any Accredited Professional credentials but has experience implementing with the product
+* **Tier 4 Candidate**: Does not hold any Accredited Professional credentials but has experience implementing the product successfully
 
 ## ⚠️ Disclaimers
 
