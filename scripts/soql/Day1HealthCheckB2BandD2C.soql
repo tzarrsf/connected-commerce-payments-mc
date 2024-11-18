@@ -7,6 +7,8 @@
 **/
 SELECT OrderNumber, SalesStore.Name, Account.Name, GrandTotalAmount,
 OrderLifeCycleType, OrderedDate
-FROM OrderSummary order by OrderedDate desc limit 4
+FROM OrderSummary
+WHERE SalesStore.Name like'%TSO%'
+order by OrderedDate desc limit 3
 
 
