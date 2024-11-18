@@ -1,0 +1,12 @@
+/**
+ * @description       : 
+ * @author            : ChangeMeIn@UserSettingsUnder.SFDoc
+ * @group             : 
+ * @last modified on  : 11-18-2024
+ * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
+**/
+SELECT OrderNumber, SalesStore.Name, Account.Name, GrandTotalAmount,
+OrderLifeCycleType, OrderedDate
+FROM OrderSummary order by OrderedDate desc limit 4
+
+
