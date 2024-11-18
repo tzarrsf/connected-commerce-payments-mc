@@ -8,7 +8,7 @@
 SELECT OrderNumber, SalesStore.Name, Account.Name, GrandTotalAmount,
 OrderLifeCycleType, OrderedDate
 FROM OrderSummary
-WHERE SalesStore.Name like'%TSO%'
+WHERE SalesStore.Name like '%B2B Aura%'
+AND OrderLifeCycleType = 'Managed'
 order by OrderedDate desc limit 5
-
 

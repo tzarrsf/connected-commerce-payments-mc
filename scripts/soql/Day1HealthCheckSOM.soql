@@ -8,7 +8,7 @@
 SELECT OrderNumber, SalesStore.Name, Account.Name, GrandTotalAmount,
 OrderLifeCycleType, OrderedDate
 FROM OrderSummary
-WHERE SalesStore.Name like'%TSO%'
+WHERE NOT (SalesStore.Name like '%TSO%')
 order by OrderedDate desc limit 5
 
 
