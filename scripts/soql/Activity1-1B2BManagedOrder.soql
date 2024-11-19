@@ -5,10 +5,8 @@
  * @last modified on  : 11-18-2024
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
-SELECT OrderNumber, SalesStore.Name, Account.Name, GrandTotalAmount,
-OrderLifeCycleType, OrderedDate
+SELECT OrderNumber, OrderedDate, OrderLifeCycleType, SalesStore.Name, SalesChannel.Description
 FROM OrderSummary
-WHERE SalesStore.Name like '%B2B Aura%'
+WHERE OrderedDate != null
 AND OrderLifeCycleType = 'Managed'
-order by OrderedDate desc limit 5
-
+AND SalesStore.Name like 'B2B Aura%'

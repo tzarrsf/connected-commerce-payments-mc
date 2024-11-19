@@ -5,8 +5,7 @@
  * @last modified on  : 11-18-2024
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
-SELECT OrderNumber, SalesStore.Name, Account.Name, GrandTotalAmount,
-OrderLifeCycleType, OrderedDate
+SELECT OrderedDate,OrderLifeCycleType,OrderNumber,SalesChannel.Description,SalesStoreId
 FROM OrderSummary
 WHERE NOT (SalesStore.Name like '%TSO%')
 order by OrderedDate desc limit 5
